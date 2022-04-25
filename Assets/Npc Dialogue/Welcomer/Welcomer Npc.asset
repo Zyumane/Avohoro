@@ -676,7 +676,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: Nos veremos en tro dia si es que tienes oportunidad
+        value: Nos veremos en otro dia si es que tienes oportunidad
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -851,7 +851,7 @@ MonoBehaviour:
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 0, y: 0}
+    canvasScrollPosition: {x: 73, y: 0}
     canvasZoom: 1
   syncInfo:
     syncActors: 0
