@@ -212,8 +212,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 434
-        y: 41
+        x: 521.12177
+        y: 123.3009
         width: 160
         height: 30
     - id: 1
@@ -283,8 +283,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 434
-        y: 91
+        x: 521.12177
+        y: 173.3009
         width: 160
         height: 30
     - id: 2
@@ -360,8 +360,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 434
-        y: 141
+        x: 521.12177
+        y: 223.3009
         width: 160
         height: 30
     - id: 3
@@ -431,8 +431,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 338
-        y: 191
+        x: 425.12177
+        y: 273.3009
         width: 160
         height: 30
     - id: 4
@@ -502,8 +502,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 524
-        y: 191
+        x: 611.1219
+        y: 273.3009
         width: 160
         height: 30
     - id: 5
@@ -573,8 +573,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 338
-        y: 241
+        x: 425.12177
+        y: 323.3009
         width: 160
         height: 30
     - id: 6
@@ -645,8 +645,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 524
-        y: 241
+        x: 611.1219
+        y: 323.3009
         width: 160
         height: 30
     - id: 7
@@ -716,8 +716,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 338
-        y: 291
+        x: 425.12177
+        y: 373.3009
         width: 160
         height: 30
     - id: 8
@@ -781,8 +781,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 338
-        y: 341
+        x: 425.12177
+        y: 423.30093
         width: 160
         height: 30
     - id: 9
@@ -846,13 +846,13 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 524
-        y: 291
+        x: 611.1219
+        y: 373.3009
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 73, y: 0}
-    canvasZoom: 1
+    canvasScrollPosition: {x: 0, y: 0}
+    canvasZoom: 0.73000026
   syncInfo:
     syncActors: 0
     syncItems: 0

@@ -124,7 +124,7 @@ namespace PixelCrushers.DialogueSystem.Demo
             if (m_animator != null) m_animator.SetBool(twoHandWeaponBoolParameter, useTwoHandWeapon);
 
             // Firing:
-            if (DialogueManager.GetInputButtonDown(attackButton) && !m_firing)
+            if (Input.GetKeyDown(KeyCode.F) && !m_firing)
             {
                 if (m_animator != null) m_animator.SetTrigger(attackTriggerParameter);
                 m_firing = true;
